@@ -1,4 +1,4 @@
-package in.bhartiai.wakeup
+package `in`.bhartiai.wakeup
 
 import android.Manifest
 import android.app.Activity
